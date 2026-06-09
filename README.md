@@ -38,4 +38,4 @@ The models were evaluated using the Coefficient of Determination ($R^2$) and Roo
 * **Hydrological Lag Context:** The moderate baseline $R^2$ (~0.40) highlights a fundamental domain trait: groundwater systems experience delayed infiltration responses to precipitation, paving the way for future sequential feature-lag modeling.
 
 ### Run
-Open "Ground Water Prediction.ipynb" in Jupyter Notebook and run all cells
+Open "https://github.com/PinarKavousi/groundwater-level-prediction/blob/main/Ground%20Water%20Prediction.ipynb" in Jupyter Notebook and run all cells
